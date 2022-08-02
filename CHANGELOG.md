@@ -2,4 +2,4 @@
 
 ## Updates
 
-- Update 8: 2022-07-31
+- Update 9: 2022-08-02
